@@ -1,2 +1,2 @@
 # vue-vite
-vue3+vite 基础框架
+vue3+vite2 基础框架
